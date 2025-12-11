@@ -1,8 +1,5 @@
 # Spatial-Audio-Player
-A unique Python-based music player where the **window's physical position on the screen controls the audio output
-# [Project Name]
 
-## Description
 This is a Python application that [briefly explain what your program does, e.g., calculates taxes / automates file sorting / scrapes web data]. It is designed to be simple, efficient, and easy to use.
 
 ## Features
